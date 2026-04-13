@@ -11,7 +11,7 @@
 
 A manual functional testing cycle was conducted on Sauce Demo, covering the core user flows of an e-commerce application: authentication, product browsing, cart management, and checkout.
 
-Out of 21 test cases executed, 18 passed and 3 failures were identified. All failures have been documented as bug reports with detailed steps to reproduce, severity classification, and business impact assessment.
+Out of 21 test cases executed, 18 passed and 4 failures were identified. All failures have been documented as bug reports with detailed steps to reproduce, severity classification, and business impact assessment.
 
 ---
 
@@ -20,7 +20,7 @@ Out of 21 test cases executed, 18 passed and 3 failures were identified. All fai
 | Flow | Test cases | Passed | Failed |
 |---|---|---|---|
 | Login / Authentication | 5 | 4 | 1 |
-| Product listing and sorting | 6 | 5 | 1 |
+| Product listing and sorting | 6 | 5 | 2 |
 | Cart management | 6 | 6 | 0 |
 | Checkout | 6 | 5 | 1 |
 | **Total** | **21** | **18** | **3** |
@@ -34,7 +34,7 @@ Out of 21 test cases executed, 18 passed and 3 failures were identified. All fai
 | BUG001 | Locked user receives generic, unprofessional error message | Medium | Open |
 | BUG002 | All product images broken for problem_user | High | Open |
 | BUG003 | Checkout form accepts submission with missing required fields | High | Open |
-
+| BUG004 | Product detail page shows incorrect description for problem_user | High | Open |
 ---
 
 ## Key observations
