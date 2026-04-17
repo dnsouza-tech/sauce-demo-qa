@@ -60,7 +60,7 @@ sauce-demo-qa/
 | Bugs reported       | 4                                   |
 | High severity       | 1                                   |
 | Medium severity     | 2                                   |
-| Techniques applied  | Black Box, exploratory test Error Guessing, Gherkin  |
+| Techniques applied  | Black Box, Exploratory Test, Error Guessing, Gherkin  |
 
 ## Tools used
 
