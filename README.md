@@ -57,10 +57,10 @@ sauce-demo-qa/
 | Item                | Result                              |
 |---------------------|-------------------------------------|
 | Test cases          | 4 suites                            |
-| Bugs reported       | 3                                   |
+| Bugs reported       | 4                                   |
 | High severity       | 1                                   |
 | Medium severity     | 2                                   |
-| Techniques applied  | Black Box, Error Guessing, Gherkin  |
+| Techniques applied  | Black Box, exploratory test Error Guessing, Gherkin  |
 
 ## Tools used
 
