@@ -52,6 +52,16 @@ sauce-demo-qa/
 
 ---
 
+## Test Summary
+
+| Item                | Result                              |
+|---------------------|-------------------------------------|
+| Test cases          | 4 suites                            |
+| Bugs reported       | 3                                   |
+| High severity       | 1                                   |
+| Medium severity     | 2                                   |
+| Techniques applied  | Black Box, Error Guessing, Gherkin  |
+
 ## Tools used
 
 - **Test management:** Manual (Markdown)
